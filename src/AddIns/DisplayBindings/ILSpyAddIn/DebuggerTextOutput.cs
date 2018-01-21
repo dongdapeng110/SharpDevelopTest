@@ -7,6 +7,8 @@ using ICSharpCode.Core;
 using ICSharpCode.Decompiler;
 using Mono.Cecil;
 
+/* Nothing */
+
 namespace ICSharpCode.ILSpyAddIn
 {
 	sealed class DebuggerTextOutput : ITextOutput
