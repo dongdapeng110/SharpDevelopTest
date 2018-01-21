@@ -1,0 +1,4 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.exe
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Tools\UpdateAssemblyInfo\bin\Debug\UpdateAssemblyInfo.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.exe
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Tools\UpdateAssemblyInfo\obj\Debug\UpdateAssemblyInfo.pdb

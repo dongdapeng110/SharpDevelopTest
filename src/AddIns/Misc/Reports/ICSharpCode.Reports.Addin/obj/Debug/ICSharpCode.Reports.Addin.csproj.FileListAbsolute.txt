@@ -1,0 +1,14 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.ExpressionEditor.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.AbstractItem.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.ReportWizard.LayoutPanelControl.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.ReportWizard.PullModelPanel.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.ReportWizard.PushModelPanel.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.ReportWizard.ResultPanel.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.csproj.GenerateResource.Cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\EmptyReport.xft
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\ICSharpCode.ReportDesigner.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Addin.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Addin.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Addin\obj\Debug\ICSharpCode.Reports.Addin.pdb

@@ -1,0 +1,13 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\HexEditor\HexEditor.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\HexEditor\HexEditor.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\HexEditor\HexEditor.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\Src\View\HexEditOptionsPanel.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor_MarkupCompile.lref
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\Src\View\HexEditOptionsPanel.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.View.HexEditContainer.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.csproj.GenerateResource.Cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\HexEditor\Project\obj\Debug\HexEditor.pdb

@@ -1,0 +1,11 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Core.Presentation.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Core.Presentation.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation_MarkupCompile.lref
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\themes\Aero.NormalColor.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\themes\generic.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.Core.Presentation\obj\Debug\ICSharpCode.Core.Presentation.pdb

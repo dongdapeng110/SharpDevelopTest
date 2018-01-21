@@ -1,0 +1,11 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\FSharpBinding\obj\Debug\FSharpBinding.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\FSharpBinding.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\Templates\EmptyClass.xft
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp2LibraryProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp2ConsoleProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp3LibraryProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\Templates\FSharp3ConsoleProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\FSharpBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\FSharpBinding\FSharpBinding.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\FSharpBinding\obj\Debug\FSharpBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\FSharpBinding\obj\Debug\FSharpBinding.pdb

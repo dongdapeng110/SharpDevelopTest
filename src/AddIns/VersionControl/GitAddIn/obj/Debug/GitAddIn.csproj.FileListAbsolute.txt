@@ -1,0 +1,6 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\VersionControl\GitAddIn.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\VersionControl\GitAddIn.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\VersionControl\GitAddIn.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\GitAddIn\obj\Debug\GitAddIn.pdb

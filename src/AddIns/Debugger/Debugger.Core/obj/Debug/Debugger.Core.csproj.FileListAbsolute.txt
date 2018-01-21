@@ -1,0 +1,5 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Debugger\Debugger.Core.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Debugger\Debugger.Core.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Debugger\Debugger.Core\obj\Debug\Debugger.Core.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Debugger\Debugger.Core\obj\Debug\Debugger.Core.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Debugger\Debugger.Core\obj\Debug\Debugger.Core.pdb

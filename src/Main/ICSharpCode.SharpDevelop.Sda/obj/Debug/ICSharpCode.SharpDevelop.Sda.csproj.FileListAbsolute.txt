@@ -1,0 +1,6 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Sda\obj\Debug\ICSharpCode.SharpDevelop.Sda.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Sda.dll.config
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Sda.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Sda.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Sda\obj\Debug\ICSharpCode.SharpDevelop.Sda.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Sda\obj\Debug\ICSharpCode.SharpDevelop.Sda.pdb

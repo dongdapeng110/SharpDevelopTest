@@ -1,0 +1,13 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\CodeAnalysis\CodeAnalysis.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisProjectOptionsPanel.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis_MarkupCompile.lref
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\Src\AnalysisProjectOptionsPanel.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\CodeAnalysis\obj\Debug\CodeAnalysis.pdb

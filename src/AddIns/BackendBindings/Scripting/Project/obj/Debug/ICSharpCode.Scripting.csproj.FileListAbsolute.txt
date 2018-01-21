@@ -1,0 +1,5 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Scripting\Project\obj\Debug\ICSharpCode.Scripting.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Scripting.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Scripting.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Scripting\Project\obj\Debug\ICSharpCode.Scripting.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Scripting\Project\obj\Debug\ICSharpCode.Scripting.pdb

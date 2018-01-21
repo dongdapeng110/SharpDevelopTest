@@ -1,0 +1,13 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Widgets.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Widgets.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ColorPicker.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets_MarkupCompile.lref
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ColorPicker.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\NumericUpDown.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\themes\generic.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ZoomScrollViewer.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Widgets\Project\obj\Debug\ICSharpCode.SharpDevelop.Widgets.pdb

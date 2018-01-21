@@ -1,0 +1,6 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Debug\JavaScriptBinding.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\JavaScriptBinding\JavaScriptBinding.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\JavaScriptBinding\JavaScriptBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\JavaScriptBinding\JavaScriptBinding.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Debug\JavaScriptBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\JavaScriptBinding\Project\obj\x86\Debug\JavaScriptBinding.pdb

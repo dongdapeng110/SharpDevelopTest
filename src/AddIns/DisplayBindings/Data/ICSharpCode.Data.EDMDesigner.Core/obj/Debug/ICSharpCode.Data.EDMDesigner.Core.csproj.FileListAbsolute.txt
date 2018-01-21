@@ -1,0 +1,17 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\ICSharpCode.Data.EDMDesigner.Core.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\ICSharpCode.Data.EDMDesigner.Core_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Debug\ICSharpCode.Data.EDMDesigner.Core.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Debug\ICSharpCode.Data.EDMDesigner.Core.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Debug\ICSharpCode.Data.Core.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Debug\ICSharpCode.Data.Core.UI.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Debug\ICSharpCode.Data.Core.UI.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\bin\Debug\ICSharpCode.Data.Core.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\Windows\EDMWizard\ChooseDatabaseConnectionUserControl.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\Windows\EDMWizard\ChooseDatabaseObjectsUserControl.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\Windows\EDMWizard\EDMWizardErrorUserControl.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\Windows\EDMWizard\ChooseDatabaseConnectionUserControl.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\Windows\EDMWizard\ChooseDatabaseObjectsUserControl.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\Windows\EDMWizard\EDMWizardErrorUserControl.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\ICSharpCode.Data.EDMDesigner.Core.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\ICSharpCode.Data.EDMDesigner.Core.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.EDMDesigner.Core\obj\Debug\ICSharpCode.Data.EDMDesigner.Core.pdb

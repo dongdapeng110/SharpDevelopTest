@@ -1,0 +1,6 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\ResourceToolkit\Project\obj\Debug\ResourceToolkit.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\ResourceToolkit\Hornung.ResourceToolkit.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\ResourceToolkit\Project\obj\Debug\Hornung.ResourceToolkit.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\ResourceToolkit\Project\obj\Debug\Hornung.ResourceToolkit.pdb

@@ -1,0 +1,15 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\VBNetBinding.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\VBNetBinding\VBNetBinding.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\VBNetBinding\ICSharpCode.VBNetBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\VBNetBinding\ICSharpCode.VBNetBinding.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\BuildOptions.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\ProjectImports.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\BuildOptions.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\ProjectImports.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\TextEditorOptions.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding_MarkupCompile.lref
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\Src\OptionPanels\TextEditorOptions.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\VBNetBinding\Project\obj\Debug\ICSharpCode.VBNetBinding.pdb

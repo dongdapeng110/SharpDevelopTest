@@ -1,0 +1,9 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\StartUp\Project\obj\Debug\StartUp.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\StartUp\Project\obj\Debug\Resources.StringResources.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\StartUp\Project\obj\Debug\StartUp.csproj.GenerateResource.Cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Sda.dll.config
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.exe.config
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.exe
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\StartUp\Project\obj\Debug\SharpDevelop.exe
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\StartUp\Project\obj\Debug\SharpDevelop.pdb

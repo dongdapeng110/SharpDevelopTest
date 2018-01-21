@@ -1,0 +1,16 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\WixBinding\Project\obj\Debug\WixBinding.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\DefaultLicense.rtf
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\WixBinding.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\EmptyWixFile.xft
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\EmptyWixDialog.xft
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\EmptyWixProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\SetupDialogControlLibrary.sdcl
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\WixDialog.xft
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIFeatureTreeProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIInstallDirProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIMinimalProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\Templates\WixUIMondoProject.xpt
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\WixBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\WixBinding\WixBinding.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\WixBinding\Project\obj\Debug\WixBinding.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\WixBinding\Project\obj\Debug\WixBinding.pdb

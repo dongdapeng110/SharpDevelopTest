@@ -1,0 +1,14 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\XmlEditor.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\Src\SelectXmlSchemaWindow.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\Src\XmlSchemasPanel.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\Src\SelectXmlSchemaWindow.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\Src\XmlSchemasPanel.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\XmlEditor_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\XmlEditor\XmlEditor.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\XmlEditor\XmlEditor.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\XmlEditor\XmlEditor.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\Src\XmlEditorOptionsPanel.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\Src\XmlEditorOptionsPanel.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\XmlEditor.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\XmlEditor.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\XmlEditor\Project\obj\Debug\XmlEditor.pdb

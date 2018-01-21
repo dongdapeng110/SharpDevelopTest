@@ -1,0 +1,13 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\SourceAnalysis\SharpDevelop.SourceAnalysis.targets
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\SourceAnalysis\SourceAnalysis.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisOptionsPanel.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisIdeOptionsPanel.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\Src\AnalysisOptionsPanel.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\SourceAnalysis\obj\Debug\SourceAnalysis.pdb

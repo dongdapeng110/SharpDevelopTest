@@ -1,0 +1,4 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.XamlDom.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\WpfDesign\ICSharpCode.WpfDesign.XamlDom.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.XamlDom\Project\obj\Debug\ICSharpCode.WpfDesign.XamlDom.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\WpfDesign\WpfDesign.XamlDom\Project\obj\Debug\ICSharpCode.WpfDesign.XamlDom.pdb

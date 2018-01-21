@@ -1,0 +1,1 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Tests\ICSharpCode.SharpDevelop.Dom.Tests\obj\Debug\ICSharpCode.SharpDevelop.Dom.Tests.csprojResolveAssemblyReference.cache

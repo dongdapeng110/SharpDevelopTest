@@ -1,0 +1,6 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\Irony.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\Irony.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\Irony\obj\Debug\Irony.Microsoft.MathResources.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\Irony\obj\Debug\Irony.csproj.GenerateResource.Cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\Irony\obj\Debug\Irony.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\Irony\obj\Debug\Irony.pdb

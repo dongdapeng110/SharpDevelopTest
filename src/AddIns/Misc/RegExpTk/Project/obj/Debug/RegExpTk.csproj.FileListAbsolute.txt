@@ -1,0 +1,6 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\RegExpTk\Project\obj\Debug\RegExpTk.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\RegExpTk\RegExpTk.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\RegExpTk\RegExpTk.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\RegExpTk\RegExpTk.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\RegExpTk\Project\obj\Debug\RegExpTk.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\RegExpTk\Project\obj\Debug\RegExpTk.pdb

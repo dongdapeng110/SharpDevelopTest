@@ -1,0 +1,13 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Core.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\SharpDevelopReports\ICSharpCode.Reports.Core.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\Project\WpfReportViewer\WpfReportViewer.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\Project\WpfReportViewer\WpfReportViewer.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.Dialogs.TextEditorDialog.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.Dialogs.ParameterDialog.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.ReportViewer.PreviewControl.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.Project.Resources.CoreResource.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.csproj.GenerateResource.Cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\Reports\ICSharpCode.Reports.Core\obj\Debug\ICSharpCode.Reports.Core.pdb

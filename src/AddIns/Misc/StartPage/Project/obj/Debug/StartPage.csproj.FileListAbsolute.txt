@@ -1,0 +1,12 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\RecentProjectsControl.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\RecentProjectsControl.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage_MarkupCompile.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\StartPage\StartPage.addin
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\StartPage\StartPage.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\StartPage\StartPage.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\StartPageControl.baml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\Src\StartPageControl.g.cs
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.g.resources
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\StartPage\Project\obj\Debug\StartPage.pdb

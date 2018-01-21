@@ -1,0 +1,4 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.NRefactory.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.NRefactory.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\NRefactory\Project\obj\Debug\ICSharpCode.NRefactory.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\NRefactory\Project\obj\Debug\ICSharpCode.NRefactory.pdb

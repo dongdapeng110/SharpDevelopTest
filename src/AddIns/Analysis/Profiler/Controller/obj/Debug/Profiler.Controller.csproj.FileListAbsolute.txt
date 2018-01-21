@@ -1,0 +1,5 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controller.xml
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controller.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\bin\ICSharpCode.Profiler.Controller.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\Controller\obj\Debug\ICSharpCode.Profiler.Controller.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\Controller\obj\Debug\ICSharpCode.Profiler.Controller.pdb

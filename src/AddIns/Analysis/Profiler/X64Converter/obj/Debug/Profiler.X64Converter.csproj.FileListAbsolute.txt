@@ -1,0 +1,7 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\Profiler.X64Converter.exe
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\Profiler.X64Converter.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\ICSharpCode.NRefactory.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\X64Converter\bin\ICSharpCode.NRefactory.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.exe
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\Profiler\X64Converter\obj\Debug\Profiler.X64Converter.pdb

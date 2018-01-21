@@ -1,0 +1,5 @@
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\UnitTests\ICSharpCode.Core.Tests.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\bin\UnitTests\ICSharpCode.Core.Tests.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.csprojResolveAssemblyReference.cache
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.dll
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\Core\Test\obj\Debug\ICSharpCode.Core.Tests.pdb
