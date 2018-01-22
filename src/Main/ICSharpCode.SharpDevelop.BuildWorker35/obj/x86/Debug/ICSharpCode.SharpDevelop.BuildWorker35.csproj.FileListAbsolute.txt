@@ -3,3 +3,4 @@ F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.BuildWorker3
 F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.BuildWorker35.pdb
 F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Debug\ICSharpCode.SharpDevelop.BuildWorker35.exe
 F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Debug\ICSharpCode.SharpDevelop.BuildWorker35.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker35\obj\x86\Debug\ICSharpCode.SharpDevelop.BuildWorker35.csprojResolveAssemblyReference.cache

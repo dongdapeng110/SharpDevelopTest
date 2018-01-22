@@ -12,3 +12,4 @@ F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\AvalonEdit\ICSharpCode.Aval
 F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.g.resources
 F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.dll
 F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\AvalonEdit\ICSharpCode.AvalonEdit\obj\Debug\ICSharpCode.AvalonEdit.csprojResolveAssemblyReference.cache

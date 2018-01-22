@@ -3,3 +3,4 @@ F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\PythonBinding\Pyth
 F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\BackendBindings\PythonBinding\Python.Build.Tasks.pdb
 F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Debug\Python.Build.Tasks.dll
 F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Debug\Python.Build.Tasks.pdb
+F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Python\Python.Build.Tasks\Project\obj\Debug\Python.Build.Tasks.csprojResolveAssemblyReference.cache
