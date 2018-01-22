@@ -1,7 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\NRefactoryToBooConverter.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\NRefactoryToBooConverter.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\Boo.Lang.Compiler.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\bin\Debug\Boo.Lang.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\BackendBindings\Boo\NRefactoryToBooConverter\Project\obj\Debug\NRefactoryToBooConverter.pdb

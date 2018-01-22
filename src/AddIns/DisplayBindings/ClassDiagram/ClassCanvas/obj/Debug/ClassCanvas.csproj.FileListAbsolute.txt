@@ -1,9 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassDiagram.ClassCanvas.resources
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.csproj.GenerateResource.Cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\ClassCanvas.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\ClassCanvas.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\Diagrams.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\bin\Debug\Diagrams.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\ClassCanvas\obj\Debug\ClassCanvas.pdb

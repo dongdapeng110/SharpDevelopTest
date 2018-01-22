@@ -1,9 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\ICSharpCode.SettingsEditor.SettingsView.resources
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor.csproj.GenerateResource.Cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\SettingsEditor\EmptySettingsFile.xft
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\SettingsEditor\SettingsEditor.addin
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\SettingsEditor\SettingsEditor.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\SettingsEditor\SettingsEditor.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\SettingsEditor\Project\obj\Debug\SettingsEditor.pdb

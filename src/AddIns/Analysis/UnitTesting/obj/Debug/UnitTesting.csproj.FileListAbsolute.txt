@@ -1,5 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\UnitTesting\obj\Debug\UnitTesting.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\UnitTesting\UnitTesting.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Analysis\UnitTesting\UnitTesting.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\UnitTesting\obj\Debug\UnitTesting.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Analysis\UnitTesting\obj\Debug\UnitTesting.pdb

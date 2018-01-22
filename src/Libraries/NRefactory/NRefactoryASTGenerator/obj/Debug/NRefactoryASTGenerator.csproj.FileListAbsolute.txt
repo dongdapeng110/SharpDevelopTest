@@ -1,4 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\bin\Debug\NRefactoryASTGenerator.exe
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\bin\Debug\NRefactoryASTGenerator.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\obj\Debug\NRefactoryASTGenerator.exe
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\NRefactory\NRefactoryASTGenerator\obj\Debug\NRefactoryASTGenerator.pdb

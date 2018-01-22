@@ -1,5 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Debug\ICSharpCode.SharpDevelop.Dom.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Dom.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.Dom.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Debug\ICSharpCode.SharpDevelop.Dom.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.Dom\Project\obj\Debug\ICSharpCode.SharpDevelop.Dom.pdb

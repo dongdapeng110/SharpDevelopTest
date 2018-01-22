@@ -1,4 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\bin\Debug\Diagrams.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\bin\Debug\Diagrams.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\Diagrams.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\ClassDiagram\DiagramRouter\obj\Debug\Diagrams.pdb

@@ -1,8 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\ICSharpCode.Svn.InfoPanel.resources
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.csproj.GenerateResource.Cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\VersionControl\SubversionAddIn\ICSharpCode.Svn.addin
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\VersionControl\SubversionAddIn\SubversionAddIn.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\VersionControl\SubversionAddIn\SubversionAddIn.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\VersionControl\SubversionAddIn\obj\Debug\SubversionAddIn.pdb

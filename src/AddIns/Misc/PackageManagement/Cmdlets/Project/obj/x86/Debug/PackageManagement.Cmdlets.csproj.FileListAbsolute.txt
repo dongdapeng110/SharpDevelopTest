@@ -1,5 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PackageManagement\Cmdlets\Project\obj\x86\Debug\PackageManagement.Cmdlets.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\PackageManagement\PackageManagement.Cmdlets.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\PackageManagement\PackageManagement.Cmdlets.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PackageManagement\Cmdlets\Project\obj\x86\Debug\PackageManagement.Cmdlets.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PackageManagement\Cmdlets\Project\obj\x86\Debug\PackageManagement.Cmdlets.pdb

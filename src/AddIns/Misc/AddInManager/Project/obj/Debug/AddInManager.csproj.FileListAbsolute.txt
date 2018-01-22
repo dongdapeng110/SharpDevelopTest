@@ -1,9 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\AddInManager.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.ManagerForm.resources
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.AboutForm.resources
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\AddInManager.csproj.GenerateResource.Cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\AddInManager\AddInManager.addin
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\AddInManager\ICSharpCode.AddInManager.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\AddInManager\ICSharpCode.AddInManager.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddInManager\Project\obj\Debug\ICSharpCode.AddInManager.pdb

@@ -1,8 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.TargetingPack.targets
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.CodeAnalysis.targets
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.CheckMSBuild35Features.targets
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Build.Tasks.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Build.Tasks.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Debug\ICSharpCode.Build.Tasks.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Debug\ICSharpCode.Build.Tasks.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\ICSharpCode.Build.Tasks\Project\obj\Debug\ICSharpCode.Build.Tasks.csprojResolveAssemblyReference.cache

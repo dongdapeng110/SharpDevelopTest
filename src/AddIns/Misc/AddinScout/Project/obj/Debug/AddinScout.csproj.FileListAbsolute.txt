@@ -1,6 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddinScout\Project\obj\Debug\AddinScout.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\AddinScout\AddInScout.addin
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\AddinScout\AddinScout.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\AddinScout\AddinScout.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddinScout\Project\obj\Debug\AddinScout.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\AddinScout\Project\obj\Debug\AddinScout.pdb

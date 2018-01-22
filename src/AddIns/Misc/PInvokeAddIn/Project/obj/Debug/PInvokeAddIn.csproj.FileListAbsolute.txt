@@ -1,7 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PInvokeAddIn\Project\obj\Debug\PInvokeAddIn.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\PInvokeAddIn\signatures.xml
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\PInvokeAddIn\PInvoke.addin
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\PInvokeAddIn\PInvokeAddIn.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\PInvokeAddIn\PInvokeAddIn.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PInvokeAddIn\Project\obj\Debug\PInvokeAddIn.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PInvokeAddIn\Project\obj\Debug\PInvokeAddIn.pdb

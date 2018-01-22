@@ -1,5 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.BuildWorker40.exe.config
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.BuildWorker40.exe
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.SharpDevelop.BuildWorker40.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker40.exe
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\ICSharpCode.SharpDevelop.BuildWorker\obj\Debug\ICSharpCode.SharpDevelop.BuildWorker40.pdb

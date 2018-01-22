@@ -1,4 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Core.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.Core.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Main\Core\Project\obj\Debug\ICSharpCode.Core.pdb

@@ -1,9 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.csprojResolveAssemblyReference.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ControlPanel\SQLServerControlPanel.baml
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ControlPanel\SQLServerControlPanel.g.cs
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer_MarkupCompile.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.g.resources
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\DisplayBindings\Data\ICSharpCode.Data.SQLServer\obj\Debug\ICSharpCode.Data.SQLServer.pdb

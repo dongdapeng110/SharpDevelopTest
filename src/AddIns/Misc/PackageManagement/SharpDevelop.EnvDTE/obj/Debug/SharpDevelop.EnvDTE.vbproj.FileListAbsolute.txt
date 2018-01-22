@@ -1,4 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.EnvDTE.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\SharpDevelop.EnvDTE.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\PackageManagement\SharpDevelop.EnvDTE\obj\Debug\SharpDevelop.EnvDTE.pdb

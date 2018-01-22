@@ -1,5 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\AddIns\Misc\UsageDataCollector\UsageDataCollector.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector\obj\Debug\UsageDataCollector.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector\obj\Debug\UsageDataCollector.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\AddIns\Misc\UsageDataCollector\UsageDataCollector\obj\Debug\UsageDataCollector.csprojResolveAssemblyReference.cache

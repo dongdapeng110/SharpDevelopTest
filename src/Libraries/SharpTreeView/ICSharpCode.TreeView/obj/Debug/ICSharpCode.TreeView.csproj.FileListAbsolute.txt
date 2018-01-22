@@ -1,9 +1,0 @@
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.TreeView.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\bin\ICSharpCode.TreeView.pdb
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\GeneratedInternalTypeHelper.g.cs
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView_MarkupCompile.cache
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView_MarkupCompile.lref
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\Themes\Generic.baml
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.g.resources
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.dll
-F:\code\ShrapDevelop_4.3.3.9663_Source\src\Libraries\SharpTreeView\ICSharpCode.TreeView\obj\Debug\ICSharpCode.TreeView.pdb
